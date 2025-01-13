@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone git@github.com:dinshasivan/PROJECT.git
+    git clone git@github.com:dinshasivan/Flora_Delight.git
     ```
 2. Navigate to the project directory:
     ```bash
